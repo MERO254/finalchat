@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "485968968882",
+    "project_id": "todolist-9aa29",
+    "storage_bucket": "todolist-9aa29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485968968882:android:c5b9b59d6ebfc120a91dab",
+        "android_client_info": {
+          "package_name": "com.example.automaticordering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKmYcf74sUuTXHkS1qo1iU7RDFRJ3c9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485968968882:android:fbf58ae7a69e457ea91dab",
+        "android_client_info": {
+          "package_name": "com.example.finalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKmYcf74sUuTXHkS1qo1iU7RDFRJ3c9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485968968882:android:992ae5fe58dad97ea91dab",
+        "android_client_info": {
+          "package_name": "com.example.mongodb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKmYcf74sUuTXHkS1qo1iU7RDFRJ3c9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
